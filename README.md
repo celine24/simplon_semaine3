@@ -8,4 +8,4 @@ Ce repository contient tous les exercices demandés pour valider la SEMAINE 3 !
 voir les badges : https://www.codecademy.com/users/arrayWhiz13862/achievements
 
 - CV en HTML + CSS
-voir les fichiers cv.html et style.css
+voir les fichiers index.html et style.css
